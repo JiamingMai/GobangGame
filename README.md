@@ -1,5 +1,6 @@
 # GobangGame
 A Java iplementation of Gobang game <br/>
+<div sytle="font-family:'Times New Roman',Georgia,Serif">
 十十十十十十十十十十十十十十十<br/>
 十十十十十十十十十十十十十十十<br/>
 十十十十十十十十十十十十十十十<br/>
@@ -49,3 +50,4 @@ A Java iplementation of Gobang game <br/>
 十十十十十十十十十十十十十十十<br/>
 十十十十十十十十十十十十十十十<br/>
 十十十十十十十十十十十十十十十<br/>
+</div>
