@@ -1,6 +1,6 @@
 # GobangGame
 A Java iplementation of Gobang game. You control the black one by default. Enter the coordinate of the chessman, then the black chessman will be added into the chessboard. After that, the computer will add a white chessman.
-# Example
+## Example
 ![](https://raw.githubusercontent.com/JiamingMai/GobangGame/master/raw/0_0.bmp)  
 **********************************************************************
 1 5<br/>
